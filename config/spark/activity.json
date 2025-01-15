@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Gilbet",
+      "uniqueId": "6841c89e-85a3-446f-9518-662c4f5809ca"
+    },
+    "time": 1736935997374,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UM64yPZkMY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Gilbet",
+      "uniqueId": "6841c89e-85a3-446f-9518-662c4f5809ca"
+    },
+    "time": 1736851986655,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/M1yFIKNWzc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Gilbet",
+      "uniqueId": "6841c89e-85a3-446f-9518-662c4f5809ca"
+    },
+    "time": 1736851919482,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lgHe4izyca"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Gilbet",
+      "uniqueId": "6841c89e-85a3-446f-9518-662c4f5809ca"
+    },
+    "time": 1736851683144,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Q0qsQUhgRB"
+    }
+  }
+]
